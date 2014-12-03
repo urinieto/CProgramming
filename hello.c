@@ -18,6 +18,7 @@
 
 int main() {
     int x = 4, y = 5;
+    printf("Hello World!\n");
     printf("Sum of %d and %d is %d\n", x, y, x + y);
     return 0;
 }
